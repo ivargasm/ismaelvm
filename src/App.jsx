@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Nav } from './components/Nav'
-import { Home } from './components/home'
+import { Home } from './components/Home'
 import { Skills } from './components/Skills'
 import { Portfolio } from './components/Portfolio'
 import { Contact } from './components/Contact'
