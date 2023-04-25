@@ -1,0 +1,26 @@
+{
+    "es": {
+        "name": "Ismael",
+        "start": "Inicio",
+        "skills": "Habilidades",
+        "projects": "Proyectos",
+        "contact": "Contacto",
+        "job": "Desarrollador",
+        "msg": "Soy un apasionado por la tecnología, me gusta aprender cosas que tengan relevación con el desarrollo web, base de datos, redes, programación. Al ser temas que me gustan la curva de aprendizaje es muy rápida. Un deporte que me apasiona tanto como la tecnología es el TaeKownDo, tengo el grado de Cinta Negra 1er Dan, sigo practicando el deporte y también practico la docencia del mismo.",
+        "p_msg": "Estos son algunos de los proyectos que he realizado",
+        "c_msg": "Mi bandeja de correo está siempre disponible para consultas, proyectos o si simplemente si tinenes ganas pasar a saludar. ¡Te responderé lo antes posible! 👋",
+        "c_mail": "contacto@ismaelvm.xyz"
+    },
+    "en": {
+        "name": "Ismael",
+        "start": "Home",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact",
+        "job": "Developer",
+        "msg": "I am passionate about technology, I like to learn things that have relevance with web development, databases, networks, programming. Being subjects that I like the learning curve is very fast. A sport that I am as passionate about as technology is TaeKownDo, I have the degree of Black Belt 1st Dan, I continue practicing the sport and I also practice teaching it.",
+        "p_msg": "These are some of my projects that I have done",
+        "c_msg": "My inbox is always available for questions, projects or if you just feel like stopping by to say hello. I will answer you as soon as possible! 👋",
+        "c_mail": "contacto@ismaelvm.xyz"
+    }
+}

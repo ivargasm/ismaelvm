@@ -1,0 +1,106 @@
+{
+    "project": {
+        "es": 
+        [
+            {
+                "id": 1,
+                "name": "ivargasm",
+                "intro": "Pagina personal para CV, con Html, Css, Js y Laravel",
+                "tags": ["HTML","CSS", "JS", "PHP", "Laravel"],
+                "github": "https://github.com/ivargasm/portafolio",
+                "deploy": "ivargasm.com"
+            },
+            {
+                "id": 2,
+                "name": "RAJI",
+                "intro": "Proyecto escolar con HTML, CSS y JS",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/iformatica_juridica",
+                "deploy": "https://raji2b.netlify.app/"
+            },
+            {
+                "id": 3,
+                "name": "Calculadora de propinas",
+                "intro": "Calculadora de propinas HTML, CSS y JS te calcula acuanto le toca por persona tanto para el servicio como la propina",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/age-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/age-calculator-app-main/"
+            },
+            {
+                "id": 4,
+                "name": "Calculadora de edad",
+                "intro": "Calculadora de edad con HTML, CSS y JS Te dice la edad a partir de la fecha actual",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/tip-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/tip-calculator-app-main/"
+            },
+            {
+                "id": 5,
+                "name": "Tarjeta Interactiva",
+                "intro": "Tarjeta interactiva con HTML, CSS, JS, React+VITE Te muestra en tiempo real los datos que vas capturando y te valida que la infromacion sea correcta",
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "github": "https://github.com/ivargasm/interactive_card",
+                "deploy": "https://ivm-interactive-card-details-form.netlify.app/"
+            },
+            {
+                "id": 6,
+                "name": "Generador de frases",
+                "intro": "Generador de frases con HTML, CSS, JS, React+VITE te genera una frase nueva cada que das click en el dado",
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "github": "https://github.com/ivargasm/Advice-generator",
+                "deploy": "https://advice-generator-ivm.netlify.app/"
+            }
+        ],
+        "en": 
+        [
+            {
+                "id": 1,
+                "name": "ivargasm",
+                "intro": "Personal page for CV, with Html, Css, Js and Laravel",
+                "tags": ["HTML","CSS", "JS", "PHP", "Laravel"],
+                "github": "https://github.com/ivargasm/portafolio",
+                "deploy": "ivargasm.com"
+            },
+            {
+                "id": 2,
+                "name": "RAJI",
+                "intro": "School project with HTML, CSS and JS",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/iformatica_juridica",
+                "deploy": "https://raji2b.netlify.app/"
+            },
+            {
+                "id": 3,
+                "name": "Tip calculator",
+                "intro": "Tip calculator with HTML, CSS and JS calculates how much you get per person for both the service and the tip",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/age-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/age-calculator-app-main/"
+            },
+            {
+                "id": 4,
+                "name": "Age calculator",
+                "intro": "Age Calculator with HTML, CSS and JS Tells you the age as of the current date",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/tip-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/tip-calculator-app-main/"
+            },
+            {
+                "id": 5,
+                "name": "Interactive card",
+                "intro": "Interactive card with HTML, CSS, JS, React+VITE It shows you in real time the data you are capturing and validates that the information is correct",
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "github": "https://github.com/ivargasm/interactive_card",
+                "deploy": "https://ivm-interactive-card-details-form.netlify.app/"
+            },
+            {
+                "id": 6,
+                "name": "Advice generator",
+                "intro": "Advice generator with HTML, CSS, JS, React+VITE generates a new phrase every time you click on the dice",
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "github": "https://github.com/ivargasm/Advice-generator",
+                "deploy": "https://advice-generator-ivm.netlify.app/"
+            }
+        ]
+    }
+}
