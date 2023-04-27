@@ -203,6 +203,8 @@ body {
 main {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     gap: 2em;
 }
 
@@ -231,13 +233,13 @@ main {
 .begin-me .begin-wrapper .img-container .frame {
     background-color: var(--clr-main);
     width: 75%;
-    height: 100%;
+    height: 98%;
     position: absolute;
     z-index: -1;
     border-top-right-radius: 1em;
     border-top-left-radius: 1em;
     left: 10%;
-    bottom: 10px;
+    bottom: 30px;
 }
 
 .begin-me .begin-wrapper .img-container .img {
@@ -315,13 +317,13 @@ main {
 
 .about-me {
     padding-top: 4em;
+    width: 100%;
 }
 
 .skills-container {
     display: flex;
     flex-direction: column;
     gap: 2em;
-    width: 80%;
     margin: auto;
 }
 
@@ -537,21 +539,21 @@ footer .rsociales ul div {
 @media (max-width: 1160px) {
     .begin-me .begin-wrapper .img-container .frame {
         height: 425px;
-        bottom: 64px;
+        bottom: 76px;
     }
 }
 
 @media (max-width: 1120px) {
     .begin-me .begin-wrapper .img-container .frame {
         height: 425px;
-        bottom: 91px;
+        bottom: 105px;
     }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1050px) {
     .begin-me .begin-wrapper .img-container .frame {
         /* height: 400px; */
-        bottom: 150px;
+        bottom: 160px;
     }
 }
 
@@ -607,6 +609,8 @@ footer .rsociales ul div {
         width: 100%;
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     .begin-me .begin-wrapper .img-container {
@@ -631,6 +635,24 @@ footer .rsociales ul div {
     }
 }
 
+@media (max-width: 850px){
+    .projects .projects-container .project {
+        grid-template-columns: 1fr;
+        row-gap: 1em;
+    }
+}
+
+@media (max-width: 750px){
+    .begin-me {
+        margin-top: 6em;
+    }
+
+    .about-me {
+        padding-top: 0em;
+        margin-top: 0px;
+    }
+}
+
 @media (max-width: 690px) {
     footer {
         flex-direction: column;
@@ -639,12 +661,10 @@ footer .rsociales ul div {
 }
 
 @media (max-width:600px) {
-    .about-me {
-        padding-top: 1em;
-    }
 
     .projects {
         padding-top: 0;
+        margin-top: 2em;
     }
 
     .projects-container .project-resume {
@@ -658,11 +678,6 @@ footer .rsociales ul div {
 
     .skills-container .skill {
         grid-template-columns: repeat(3, 1fr);
-        row-gap: 1em;
-    }
-
-    .projects .projects-container .project {
-        grid-template-columns: 1fr;
         row-gap: 1em;
     }
 
