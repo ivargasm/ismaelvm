@@ -222,12 +222,14 @@ main {
 .begin-me .begin-wrapper {
     width: 80%;
     display: flex;
-    gap: 1em;
+    gap: 1em;    
 }
 
 .begin-me .begin-wrapper .img-container {
     width: 50%;
-    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
 }
 
 .begin-me .begin-wrapper .img-container .frame {
@@ -236,20 +238,22 @@ main {
     height: 98%;
     position: absolute;
     z-index: -1;
-    border-top-right-radius: 1em;
-    border-top-left-radius: 1em;
     left: 10%;
     bottom: 30px;
 }
 
 .begin-me .begin-wrapper .img-container .img {
     width: 100%;
+    border-top-right-radius: 1em;
+    border-top-left-radius: 1em;
 }
 
 .begin-me .begin-wrapper .img-container .img img {
     aspect-ratio: 1 / 1;
     width: 420px;
     object-fit: cover;
+    border-top-right-radius: 1em;
+    border-top-left-radius: 1em;
 }
 
 .begin-me .begin-wrapper .begin-content {
@@ -603,6 +607,7 @@ footer .rsociales ul div {
     /* about */
     .begin-me {
         margin-top: 12em;
+        height: auto;
     }
 
     .begin-me .begin-wrapper {
@@ -614,7 +619,7 @@ footer .rsociales ul div {
     }
 
     .begin-me .begin-wrapper .img-container {
-        width: 100%;
+        width: 70%;
     }
 
     .begin-me .begin-wrapper .img-container .img img {
@@ -639,6 +644,10 @@ footer .rsociales ul div {
     .projects .projects-container .project {
         grid-template-columns: 1fr;
         row-gap: 1em;
+    }
+
+    .begin-me {
+        margin-top: 6em;
     }
 }
 
