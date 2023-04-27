@@ -15,7 +15,7 @@ function App() {
   let languagels = (localStorage.getItem('language') ? localStorage.getItem('language') : 'es')
 
   const conseguirLanguage = async() => {
-    const url = '../public/language.json'
+    const url = '/language.json'
     const peticion = await fetch(url)
     const language = await peticion.json()
     if(selectLanguage === 'es'){
@@ -26,7 +26,7 @@ function App() {
   }
 
   const conseguirProjects = async() => {
-    const url = '../public/projects.json'
+    const url = '/projects.json'
     const peticion = await fetch(url)
     const {project: projectsLang} = await peticion.json()
     if(selectLanguage === 'es'){
