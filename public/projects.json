@@ -8,7 +8,7 @@
                 "intro": "Pagina personal para CV, con Html, Css, Js y Laravel",
                 "tags": ["HTML","CSS", "JS", "PHP", "Laravel"],
                 "github": "https://github.com/ivargasm/portafolio",
-                "deploy": "ivargasm.com"
+                "deploy": "https://ivargasm.com/"
             },
             {
                 "id": 2,
@@ -59,7 +59,7 @@
                 "intro": "Personal page for CV, with Html, Css, Js and Laravel",
                 "tags": ["HTML","CSS", "JS", "PHP", "Laravel"],
                 "github": "https://github.com/ivargasm/portafolio",
-                "deploy": "ivargasm.com"
+                "deploy": "https://ivargasm.com/"
             },
             {
                 "id": 2,
