@@ -19,8 +19,8 @@ This page is to show some of my projects, I used Html, Css, Js and React+Vite to
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/ivargasm/ismaelvm](https://github.com/ivargasm/ismaelvm)
+- Live Site URL: [https://ismaelvm.xyz/](https://ismaelvm.xyz/)
 
 ## My process
 

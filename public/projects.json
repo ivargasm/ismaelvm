@@ -19,6 +19,14 @@
                 "deploy": "https://raji2b.netlify.app/"
             },
             {
+                "id": 7,
+                "name": "Generador de contraseñas",
+                "intro": "Generador de contraseñas con HTML, CSS y JS te genera una contraseña con los elementos selecciondos y los puedes copiar al portapapeles",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/password-generator",
+                "deploy": "https://password-generator-iota-ashy.vercel.app/"
+            },
+            {
                 "id": 3,
                 "name": "Calculadora de propinas",
                 "intro": "Calculadora de propinas HTML, CSS y JS te calcula acuanto le toca por persona tanto para el servicio como la propina",
@@ -68,6 +76,14 @@
                 "tags": ["HTML","CSS", "JS"],
                 "github": "https://github.com/ivargasm/iformatica_juridica",
                 "deploy": "https://raji2b.netlify.app/"
+            },
+            {
+                "id": 7,
+                "name": "Password Generator",
+                "intro": "Password generator with HTML, CSS and JS generates a password with the selected elements and you can copy them to the clipboard.",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/password-generator",
+                "deploy": "https://password-generator-iota-ashy.vercel.app/"
             },
             {
                 "id": 3,
