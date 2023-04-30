@@ -23,16 +23,16 @@
                 "name": "Calculadora de propinas",
                 "intro": "Calculadora de propinas HTML, CSS y JS te calcula acuanto le toca por persona tanto para el servicio como la propina",
                 "tags": ["HTML","CSS", "JS"],
-                "github": "https://github.com/ivargasm/age-calculator-app-main",
-                "deploy": "https://ivargasm.github.io/age-calculator-app-main/"
+                "github": "https://github.com/ivargasm/tip-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/tip-calculator-app-main/"
             },
             {
                 "id": 4,
                 "name": "Calculadora de edad",
                 "intro": "Calculadora de edad con HTML, CSS y JS Te dice la edad a partir de la fecha actual",
                 "tags": ["HTML","CSS", "JS"],
-                "github": "https://github.com/ivargasm/tip-calculator-app-main",
-                "deploy": "https://ivargasm.github.io/tip-calculator-app-main/"
+                "github": "https://github.com/ivargasm/age-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/age-calculator-app-main/"
             },
             {
                 "id": 5,
@@ -74,16 +74,16 @@
                 "name": "Tip calculator",
                 "intro": "Tip calculator with HTML, CSS and JS calculates how much you get per person for both the service and the tip",
                 "tags": ["HTML","CSS", "JS"],
-                "github": "https://github.com/ivargasm/age-calculator-app-main",
-                "deploy": "https://ivargasm.github.io/age-calculator-app-main/"
+                "github": "https://github.com/ivargasm/tip-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/tip-calculator-app-main/"
             },
             {
                 "id": 4,
                 "name": "Age calculator",
                 "intro": "Age Calculator with HTML, CSS and JS Tells you the age as of the current date",
                 "tags": ["HTML","CSS", "JS"],
-                "github": "https://github.com/ivargasm/tip-calculator-app-main",
-                "deploy": "https://ivargasm.github.io/tip-calculator-app-main/"
+                "github": "https://github.com/ivargasm/age-calculator-app-main",
+                "deploy": "https://ivargasm.github.io/age-calculator-app-main/"
             },
             {
                 "id": 5,
