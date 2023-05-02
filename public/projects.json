@@ -27,6 +27,14 @@
                 "deploy": "https://password-generator-iota-ashy.vercel.app/"
             },
             {
+                "id": 8,
+                "name": "juego Piedra-Papel-Tijeras",
+                "intro": "El clasico juego de piedra, papel o tijeras, con uso de localStorage para guardar el resultado",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/rock-paper-scissors-master",
+                "deploy": "https://rock-paper-scissors-ivargasm.vercel.app/"
+            },
+            {
                 "id": 3,
                 "name": "Calculadora de propinas",
                 "intro": "Calculadora de propinas HTML, CSS y JS te calcula acuanto le toca por persona tanto para el servicio como la propina",
@@ -84,6 +92,14 @@
                 "tags": ["HTML","CSS", "JS"],
                 "github": "https://github.com/ivargasm/password-generator",
                 "deploy": "https://password-generator-iota-ashy.vercel.app/"
+            },
+            {
+                "id": 8,
+                "name": "Rock-Scissors-Paper Game",
+                "intro": "The classic game of rock, paper, scissors, with use of localStorage to save the result.",
+                "tags": ["HTML","CSS", "JS"],
+                "github": "https://github.com/ivargasm/rock-paper-scissors-master",
+                "deploy": "https://rock-paper-scissors-ivargasm.vercel.app/"
             },
             {
                 "id": 3,
