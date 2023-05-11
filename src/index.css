@@ -12,7 +12,7 @@
     --clr-gray-alt: #e0e0e0;
     --clr-details: #4d7be6;
     --clr-main: #4d7be6;
-    --clr-brackets: #ececec;
+    --clr-brackets: #606060;
 }
 
 /* VARIABLES DARK */
@@ -23,6 +23,7 @@
     --clr-gray: #606060;
     --clr-gray-alt: #2d2d2d;
     --clr-main: #90091d;
+    --clr-brackets: #ececec;
 }
 
 *,
