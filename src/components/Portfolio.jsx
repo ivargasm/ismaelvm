@@ -1,7 +1,9 @@
 /* eslint-disable react/prop-types */
 export const Portfolio = ({ esen, projects }) => {
 
-    let projectos = (projects) ? projects : []
+    // let projectos = (projects) ? projects : []
+    let projectos = (projects) ? projects.filter(project => project.visible === 1) : [];
+
 
     return (
         <section className="projects" id="projects">
