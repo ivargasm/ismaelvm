@@ -6,7 +6,7 @@
                 "id": 1,
                 "name": "ivargasm",
                 "intro": "Pagina personal para CV, con Html, Css, Js y Laravel",
-                "tags": ["HTML","CSS", "JS", "PHP", "Laravel"],
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
                 "github": "https://github.com/ivargasm/portafolio",
                 "deploy": "https://ivargasm.com/",
                 "visible": 1
@@ -90,7 +90,7 @@
                 "id": 1,
                 "name": "ivargasm",
                 "intro": "Personal page for CV, with Html, Css, Js and Laravel",
-                "tags": ["HTML","CSS", "JS", "PHP", "Laravel"],
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
                 "github": "https://github.com/ivargasm/portafolio",
                 "deploy": "https://ivargasm.com/",
                 "visible": 1
