@@ -7,7 +7,7 @@
                 "name": "ivargasm",
                 "intro": "Pagina personal para CV, con Html, Css, Js y Laravel",
                 "tags": ["HTML","CSS", "JS", "React", "VITE"],
-                "github": "https://github.com/ivargasm/portafolio",
+                "github": "https://github.com/ivargasm/cv_ivargasm",
                 "deploy": "https://ivargasm.com/",
                 "visible": 1
             },
