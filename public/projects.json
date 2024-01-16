@@ -12,6 +12,15 @@
                 "visible": 1
             },
             {
+                "id": 10,
+                "name": "Estampalicious",
+                "intro": "Carrito de compras",
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "github": "https://github.com/ivargasm/shoppingcart",
+                "deploy": "https://estampalicious.com/",
+                "visible": 1
+            },
+            {
                 "id": 9,
                 "name": "StudyQuizArena",
                 "intro": "Aqui encontraras test de diferentes temas que te pueden ayudar a practicar",
@@ -93,6 +102,15 @@
                 "tags": ["HTML","CSS", "JS", "React", "VITE"],
                 "github": "https://github.com/ivargasm/portafolio",
                 "deploy": "https://ivargasm.com/",
+                "visible": 1
+            },
+            {
+                "id": 10,
+                "name": "Estampalicious",
+                "intro": "ShoppingCart",
+                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "github": "https://github.com/ivargasm/shoppingcart",
+                "deploy": "https://estampalicious.com/",
                 "visible": 1
             },
             {
