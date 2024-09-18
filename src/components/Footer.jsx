@@ -2,7 +2,7 @@ export const Footer = () => {
     return (
         <footer>
             <div className="copyright">
-                <span>Created by <a href="mailto:contacto@ismaelvm.xyz">Ismael Vargas</a> | <span className="far fa-copyright"></span> 2023 All rights reserved.</span>
+                <span>Created by <a href="mailto:contacto@ivargasm.com">Ismael Vargas</a> | <span className="far fa-copyright"></span> 2023 All rights reserved.</span>
             </div>
             <div className="rsociales">
                 <ul>
