@@ -1,39 +1,122 @@
 {
     "project": {
-        "es": 
-        [
+        "es": [
             {
                 "id": 1,
                 "name": "ivargasm",
                 "intro": "Pagina personal para CV, con Html, Css, Js y React",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/cv_ivargasm",
                 "deploy": "https://ivargasm.com/",
-                "visible": 1
-            },
-            {
-                "id": 10,
-                "name": "Estampalicious",
-                "intro": "Carrito de compras",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
-                "github": "https://github.com/ivargasm/shoppingcart",
-                "deploy": "https://estampalicious.com/",
                 "visible": 1
             },
             {
                 "id": 9,
                 "name": "StudyQuizArena",
                 "intro": "Aqui encontraras test de diferentes temas que te pueden ayudar a practicar",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/quizz",
                 "deploy": "https://studyquizarena.netlify.app/",
+                "visible": 1
+            },
+            {
+                "id": 11,
+                "name": "Generador template ETL",
+                "intro": "Generador de template ETL para la herramienta de ETL con Python",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE",
+                    "Python"
+                ],
+                "github": "https://github.com/ivargasm/etl_script_generator_frontend",
+                "deploy": "https://etl-script-generator-frontend.vercel.app/",
+                "visible": 1
+            },
+            {
+                "id": 12,
+                "name": "Generador de Amparos",
+                "intro": "Herramienta que ayuda con la creacion de amparos con untemplate predefinido",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE",
+                    "Python"
+                ],
+                "github": "https://github.com/ivargasm/generador-amparos",
+                "deploy": "https://generador-amparos.vercel.app/",
+                "visible": 1
+            },
+            {
+                "id": 13,
+                "name": "Calculadora de Finiquito",
+                "intro": "Calculadora de finiquito con base en la Ley Federal del Trabajo",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
+                "github": "https://github.com/ivargasm/finiquito",
+                "deploy": "https://calculo-finiquito.netlify.app/",
+                "visible": 1
+            },
+            {
+                "id": 14,
+                "name": "Calculadora de Indemnización",
+                "intro": "Calculadora de liquidacion con base en la Ley Federal del Trabajo",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
+                "github": "https://github.com/ivargasm/calculadora-indemnizacion",
+                "deploy": "https://calculadora-indemnizacion.netlify.app/",
+                "visible": 1
+            },
+            {
+                "id": 10,
+                "name": "Estampalicious",
+                "intro": "Carrito de compras",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
+                "github": "https://github.com/ivargasm/shoppingcart",
+                "deploy": "https://estampalicious.com/",
                 "visible": 1
             },
             {
                 "id": 2,
                 "name": "RAJI",
                 "intro": "Proyecto escolar con HTML, CSS y JS",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/iformatica_juridica",
                 "deploy": "https://raji2b.netlify.app/",
                 "visible": 0
@@ -42,7 +125,11 @@
                 "id": 7,
                 "name": "Generador de contraseñas",
                 "intro": "Generador de contraseñas con HTML, CSS y JS te genera una contraseña con los elementos selecciondos y los puedes copiar al portapapeles",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/password-generator",
                 "deploy": "https://password-generator-iota-ashy.vercel.app/",
                 "visible": 1
@@ -51,7 +138,11 @@
                 "id": 8,
                 "name": "juego Piedra-Papel-Tijeras",
                 "intro": "El clasico juego de piedra, papel o tijeras, con uso de localStorage para guardar el resultado",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/rock-paper-scissors-master",
                 "deploy": "https://rock-paper-scissors-ivargasm.vercel.app/",
                 "visible": 1
@@ -60,7 +151,11 @@
                 "id": 3,
                 "name": "Calculadora de propinas",
                 "intro": "Calculadora de propinas HTML, CSS y JS te calcula acuanto le toca por persona tanto para el servicio como la propina",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/tip-calculator-app-main",
                 "deploy": "https://ivargasm.github.io/tip-calculator-app-main/",
                 "visible": 1
@@ -69,7 +164,11 @@
                 "id": 4,
                 "name": "Calculadora de edad",
                 "intro": "Calculadora de edad con HTML, CSS y JS Te dice la edad a partir de la fecha actual",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/age-calculator-app-main",
                 "deploy": "https://ivargasm.github.io/age-calculator-app-main/",
                 "visible": 0
@@ -78,7 +177,13 @@
                 "id": 5,
                 "name": "Tarjeta Interactiva",
                 "intro": "Tarjeta interactiva con HTML, CSS, JS, React+VITE Te muestra en tiempo real los datos que vas capturando y te valida que la infromacion sea correcta",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/interactive_card",
                 "deploy": "https://ivm-interactive-card-details-form.netlify.app/",
                 "visible": 0
@@ -87,46 +192,135 @@
                 "id": 6,
                 "name": "Generador de frases",
                 "intro": "Generador de frases con HTML, CSS, JS, React+VITE te genera una frase nueva cada que das click en el dado",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/Advice-generator",
                 "deploy": "https://advice-generator-ivm.netlify.app/",
                 "visible": 1
             }
         ],
-        "en": 
-        [
+        "en": [
             {
                 "id": 1,
                 "name": "ivargasm",
                 "intro": "Personal page for CV, with Html, Css, Js and React",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/portafolio",
                 "deploy": "https://ivargasm.com/",
-                "visible": 1
-            },
-            {
-                "id": 10,
-                "name": "Estampalicious",
-                "intro": "ShoppingCart",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
-                "github": "https://github.com/ivargasm/shoppingcart",
-                "deploy": "https://estampalicious.com/",
                 "visible": 1
             },
             {
                 "id": 9,
                 "name": "StudyQuizArena",
                 "intro": "Here you will find tests on different topics that can help you practice.",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/quizz",
                 "deploy": "https://studyquizarena.netlify.app/",
+                "visible": 1
+            },
+            {
+                "id": 11,
+                "name": "ETL Template Generator",
+                "intro": "ETL template generator for the Python-based ETL tool",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE",
+                    "Python"
+                ],
+                "github": "https://github.com/ivargasm/etl_script_generator_frontend",
+                "deploy": "https://etl-script-generator-frontend.vercel.app/",
+                "visible": 1
+            },
+            {
+                "id": 12,
+                "name": "Amparo Generator",
+                "intro": "Tool that assists in creating amparo documents using a predefined template",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE",
+                    "Python"
+                ],
+                "github": "https://github.com/ivargasm/generador-amparos",
+                "deploy": "https://generador-amparos.vercel.app/",
+                "visible": 1
+            },
+            {
+                "id": 13,
+                "name": "Severance Calculator",
+                "intro": "Severance calculator based on the Mexican Federal Labor Law",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
+                "github": "https://github.com/ivargasm/finiquito",
+                "deploy": "https://calculo-finiquito.netlify.app/",
+                "visible": 1
+            },
+            {
+                "id": 14,
+                "name": "Compensation Calculator",
+                "intro": "Compensation calculator based on the Mexican Federal Labor Law",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
+                "github": "https://github.com/ivargasm/calculadora-indemnizacion",
+                "deploy": "https://calculadora-indemnizacion.netlify.app/",
+                "visible": 1
+            },
+            {
+                "id": 10,
+                "name": "Estampalicious",
+                "intro": "ShoppingCart",
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
+                "github": "https://github.com/ivargasm/shoppingcart",
+                "deploy": "https://estampalicious.com/",
                 "visible": 1
             },
             {
                 "id": 2,
                 "name": "RAJI",
                 "intro": "School project with HTML, CSS and JS",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/iformatica_juridica",
                 "deploy": "https://raji2b.netlify.app/",
                 "visible": 0
@@ -135,7 +329,11 @@
                 "id": 7,
                 "name": "Password Generator",
                 "intro": "Password generator with HTML, CSS and JS generates a password with the selected elements and you can copy them to the clipboard.",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/password-generator",
                 "deploy": "https://password-generator-iota-ashy.vercel.app/",
                 "visible": 1
@@ -144,7 +342,11 @@
                 "id": 8,
                 "name": "Rock-Scissors-Paper Game",
                 "intro": "The classic game of rock, paper, scissors, with use of localStorage to save the result.",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/rock-paper-scissors-master",
                 "deploy": "https://rock-paper-scissors-ivargasm.vercel.app/",
                 "visible": 1
@@ -153,7 +355,11 @@
                 "id": 3,
                 "name": "Tip calculator",
                 "intro": "Tip calculator with HTML, CSS and JS calculates how much you get per person for both the service and the tip",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/tip-calculator-app-main",
                 "deploy": "https://ivargasm.github.io/tip-calculator-app-main/",
                 "visible": 1
@@ -162,7 +368,11 @@
                 "id": 4,
                 "name": "Age calculator",
                 "intro": "Age Calculator with HTML, CSS and JS Tells you the age as of the current date",
-                "tags": ["HTML","CSS", "JS"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS"
+                ],
                 "github": "https://github.com/ivargasm/age-calculator-app-main",
                 "deploy": "https://ivargasm.github.io/age-calculator-app-main/",
                 "visible": 0
@@ -171,7 +381,13 @@
                 "id": 5,
                 "name": "Interactive card",
                 "intro": "Interactive card with HTML, CSS, JS, React+VITE It shows you in real time the data you are capturing and validates that the information is correct",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/interactive_card",
                 "deploy": "https://ivm-interactive-card-details-form.netlify.app/",
                 "visible": 0
@@ -180,7 +396,13 @@
                 "id": 6,
                 "name": "Advice generator",
                 "intro": "Advice generator with HTML, CSS, JS, React+VITE generates a new phrase every time you click on the dice",
-                "tags": ["HTML","CSS", "JS", "React", "VITE"],
+                "tags": [
+                    "HTML",
+                    "CSS",
+                    "JS",
+                    "React",
+                    "VITE"
+                ],
                 "github": "https://github.com/ivargasm/Advice-generator",
                 "deploy": "https://advice-generator-ivm.netlify.app/",
                 "visible": 1
