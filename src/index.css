@@ -682,6 +682,10 @@ footer .rsociales ul div {
         margin: auto;
     }
 
+    .projects .projects-container .project {
+        width: 100%;
+    }
+
     .skills-container {
         width: 100%;
     }
